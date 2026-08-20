@@ -1,5 +1,10 @@
 # fileserver
 
+This should see a modern version soon.  
+
+
+## old notes (v1.0 - Alpha)  
+
 These scripts are used for building an FTP style fileserver on your own hardware.  
 
 download-server.py - Flask python server for serving dynamic .tar downloads  
