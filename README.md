@@ -1,9 +1,4 @@
-# fileserver
-
-This should see a modern version soon.  
-
-
-## old notes (v1.0 - Alpha)  
+# v1.0 - Alpha
 
 These scripts are used for building an FTP style fileserver on your own hardware.  
 
